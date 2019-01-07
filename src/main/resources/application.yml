@@ -10,8 +10,8 @@ server:
 logging:
   level: info
 S3:
-  accessKey: 3PNA5CJTQS5YVGOM19IS
-  secretKey: 9bwacm7O0+ipmLfVc6JibHhe6UcZP5H+vtvjphQO
+  accessKey: xxxxxxxxxxx
+  secretKey: xxxxxxxxxxxx
   endpoint:  http://localhost:9000
 
 
